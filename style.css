@@ -1,0 +1,20 @@
+p{
+    color: rgb(100, 20, 206);
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-right: 25px;
+    margin-left: 25px;
+}
+h1 {
+    color: rgb(24, 44, 82);
+    text-align: center;
+  }
+body { 
+    font: 100% sans-serif;
+    text-align: center;
+    background-color: lightblue;
+  }
+footer { 
+	text-align: center; 
+	}
